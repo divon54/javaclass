@@ -1,0 +1,9 @@
+table{
+    width: 100%;
+    border border-collapse:collapse ;
+    font font-family: sans-serif;
+}
+th, td{
+    border: 2px sandybrown;
+    padding: 15px;
+}

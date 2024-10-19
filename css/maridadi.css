@@ -1,0 +1,21 @@
+.cars{
+    background-color:cyan;
+    font-family: Lucida Sans;
+    text-align: center;
+    margin: 20px;
+    padding: 50px;
+}
+.fruits{
+    background-color: green;
+    text-align: center;
+    margin: 20px;
+    padding: 50px;
+    font-family: sans-serif;
+}
+#Pictures{
+    background-color: blue;
+    margin: 20px;
+    padding: 50px;
+    font-family: times new roman;
+
+}

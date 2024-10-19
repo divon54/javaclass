@@ -1,0 +1,9 @@
+table{
+    width: 100%;
+    border-collapse:collapse ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+th,td{
+    border: 2px sandybrown solid;
+    padding: 15px;
+}
